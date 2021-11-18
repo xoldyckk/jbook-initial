@@ -4,7 +4,7 @@ Some of the main libraries/tools used in this project are :- React.js, Typescrip
 
 This won't work without node.js installed on your systems.
 
-To start the app type in your terminal :- "npx xoldyckk-jbook serve"
+To start the app type in your terminal type this and press enter :- "npx xoldyckk-jbook serve"
 
 In your browser open up the following URL :- http://localhost:4005
 

@@ -14,8 +14,8 @@ The app detects that nothing is being done for 750 milliseconds and processes th
 
 There is a special function embedded into the source code of the code editor called show().
 This show function embeds whatever is written inside it into the #root element of the preview window.
-So, you can try out writing some HTML code inside the show() function (show(<h1>This is inside show</h1>))
-and see the display on the preview window.
+So, you can try out writing some HTML code inside the show() function.
+Like show(<h1>Hello</h1>) nd see the display on the preview window.
 
 Whenever you're done writing code click on the save button on the bottom right on the page.
 It will save your code/text inside a file called notebook.js and load it back up when you re-run the app.

@@ -9,7 +9,7 @@ In your browser open up the following URL :- http://localhost:4005
 
 Click on the respective buttons code/text to choose between a code window and a text window.
 
-The code written executes whenever after every 750 milliseconds you haven't made any changes to the code.
+The code written executes whenever within every 750 milliseconds you haven't made any changes to the code.
 The app detects that nothing is being done for 750 milliseconds and processes the code.
 
 There is a special function embedded into the source code of the code editor called show().

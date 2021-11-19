@@ -1,6 +1,8 @@
 # jbook-initial
-A CLI (command line interface) to boostrap a web app to write/run/document javascript code in the browser.
-Some of the main libraries/tools used in this project are :- React.js, Typescript, Esbuild-wasm, Lerna, Node.js etc.
+Package name is xoldyckk-jbook. This package is hosted at NPM. To download the package type "npm install xoldyckk-jbook".
+
+It is a CLI (command line interface) to boostrap a web app to write/run/document javascript code in the browser.
+Some of the main libraries/tools used in this project are :- React.js (bootstrapped with create-react-app), Typescript, Esbuild-wasm, Lerna, Node.js etc.
 
 This won't work without node.js installed on your systems.
 
